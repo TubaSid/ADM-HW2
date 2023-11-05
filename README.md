@@ -1,4 +1,9 @@
 # ADM-HW2
+Members of the group:
+Raffaele Cannarsa, cannarsa.1923456@studenti.uniroma1.it, id 1923456;<br/><br/>
+Sai Swaroop Chittoor, chittoor.1916247@studenti.uniroma1.it id 1916247;
+Selin Topaloglu, selintopaloglu96@gmail.com id 2113300
+Tuba Sidiqqui, sidiqqui.2047057@studenti.uniroma1.it id 2047057.
 
 The script produced for this homework allowed us to answer the requests for an eploratory data analysis, some essential information, an historical view on the dataset, some questions about consistency, the influence of an author based on their fanbase, estimating probabilities and using charts, statistical tests and other analysis methods to check whether a hypothesis is correct.
 
