@@ -14,6 +14,6 @@ The first question after the Exploratory Data Analysis is related to the books d
 In RQ3 we were required to build up a function able to give back: the number of books published, the total number of pages written, the most prolific month and the longest book written in a specific year.
 In addition to that we asked ChatGPT to provides us a function for this task and then compared it to ours.<br/><br/>
 RQ4 was about the consistency of the dataset so we needed to study the occurencies to improve our knowledge in regards of possible risks in analysing the data.<br/><br/>
-The research questions 5 and 6 both had to do with influential authors.<br/><br/>
+In RQ5 and RQ6 we conducted an analysis to identify influential authors based on fan count and the number of books they've published. We examined the presence of book series among these authors and analyzed the distribution of different publication formats. Additionally, we investigated reader responses, including gender-based comparisons, and traced the publication history of these authors to identify trends in their production rates.<br/><br/>
 In RQ7 the study involves estimating probabilities.<br/><br/>
 RQ8 required us to apply a linear regression to find out whether or not readers usuallyrate the longest books the worst and this question made us implement some statistical test in order to accept or reject some hypothesis.<br/><br/>
